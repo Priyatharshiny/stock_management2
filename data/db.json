@@ -1,0 +1,61 @@
+{
+    "stock": [
+        {
+            "id": 1,
+            "name": "Egg Bun",
+            "price": 120.00,
+            "quantity": 10
+        },
+        {
+            "id": 2,
+            "name": "Cake",
+            "price": 240.00,
+            "quantity": 15
+        },
+        {
+            "id": 3,
+            "name": "Burger",
+            "price": 1200.00,
+            "quantity": 5
+        },
+        {
+            "id": 4,
+            "name": "Cookies",
+            "price": 100.00,
+            "quantity": 20
+        }
+    ],
+
+    "market": [
+        {
+            "id": 1,
+            "name": "Priya",
+            "phone_no": "0767323093",
+            "address": "Colombo"
+        },
+        {
+            "id": 2,
+            "name": "Vijay",
+            "phone_no": "0773000027",
+            "address": "Madhu"
+        },
+        {
+            "id": 3,
+            "name": "Vithya",
+            "phone_no": "0773005857",
+            "address": "Mannar"
+        },
+        {
+            "id": 4,
+            "name": "Pravinth",
+            "phone_no": "0767008396",
+            "address": "Jaffna"
+        },
+        {
+            "id": 5,
+            "name": "Vino",
+            "phone_no": "0777572195",
+            "address": "Vavuniya"
+        }
+    ]
+}

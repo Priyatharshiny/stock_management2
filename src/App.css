@@ -44,7 +44,7 @@ body {
 }
 
 .Header, .Footer {
-  width: 1000px;
+  width: 1px;
   background-color: rgb(50 65 110);
   padding: 2rem;
   text-align: center;
